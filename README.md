@@ -17,9 +17,9 @@
   
 </details>
 
-> [!NOTE]
-> Özelleştirme ya da kaynak kod isterseniz ücret için iletişime geçebilirsiniz.
-> Botu native hali ile ücretsiz kullanabilirsiniz.
+>[!NOTE]
+>Özelleştirme ya da kaynak kod isterseniz ücret için iletişime geçebilirsiniz.
+>Botu native hali ile ücretsiz kullanabilirsiniz.
 
 [TWITTER](https://x.com/sh3rly13)
 ![](/thanks.png)
