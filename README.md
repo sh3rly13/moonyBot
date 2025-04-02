@@ -17,8 +17,8 @@
   
 </details>
 
-### Burada yer alan telegram grup ve kanallarında örnek mesajlar yer almaktadır --> [DUYURU 1](https://t.me/memurduyuru) -  
-
 > [!NOTE]
 > Özelleştirme ya da kaynak kod isterseniz ücret için iletişime geçebilirsiniz.
 > Botu native hali ile ücretsiz kullanabilirsiniz.
+
+![https://x.com/sh3rly13](/thanks.png)
