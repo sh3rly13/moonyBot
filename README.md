@@ -10,7 +10,7 @@
 >[!NOTE]
 >Bu bot telegram gruplarınızın güvenliğini kesin olarak garanti etmemektedir.
 
-### Burada yer alan telegram grup ve kanallarında örnek mesajlar yer almaktadır --> [DUYURU 1](https://t.me/memurduyuru) [Duyuru Yedek Grup](https://t.me/kahramanmaraszabitkatipligi) 
+### Burada yer alan telegram grup ve kanallarında örnek mesajlar yer almaktadır --> [DUYURU 1](https://t.me/memurduyuru) - [Duyuru Yedek Grup](https://t.me/kahramanmaraszabitkatipligi) 
 
 > [!NOTE]
 > Özelleştirme ya da kaynak kod isterseniz ücret için iletişime geçebilirsiniz.
