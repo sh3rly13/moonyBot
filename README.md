@@ -21,4 +21,6 @@
 > Özelleştirme ya da kaynak kod isterseniz ücret için iletişime geçebilirsiniz.
 > Botu native hali ile ücretsiz kullanabilirsiniz.
 
-![https://x.com/sh3rly13](/thanks.png)
+[TWITTER](https://x.com/sh3rly13)
+![](/thanks.png)
+
